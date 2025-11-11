@@ -21,7 +21,7 @@ To follow along with this workshop, you'll need access to the following:
 
 1. **Clone the repository**: Start by cloning this repository to your Google Colab environment.
 
-    - Click on the link to open the GitHub repository:  
+    - Copy the link to the GitHub repository:  
       [GDG Bletchley Park Workshop Repo](https://github.com/lewis-shearer/GDG_Bletchly_Park_Workshop)
       
     - In Google Colab, go to **File > Open notebook** and select the **GitHub** tab.
