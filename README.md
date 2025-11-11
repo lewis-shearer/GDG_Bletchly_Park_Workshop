@@ -56,19 +56,7 @@ To follow along with this workshop, you'll need access to the following:
     - [TensorFlow Documentation](https://www.tensorflow.org/)
     - [Keras Documentation](https://keras.io/)
 
-## Workshop Agenda
 
-- **Introduction to Convolutional Neural Networks (CNNs)**
-  - Brief overview of CNNs and how they're used in image analysis tasks.
-  
-- **Data Preprocessing** 
-  - Preparing medical image data for the CNN model.
-
-- **Model Design and Training**
-  - Building and training a CNN model from scratch using Keras.
-
-- **Evaluation**
-  - Evaluating model performance and next steps.
 
 ## About the Presenter
 **Lewis Shearer**  
@@ -83,4 +71,3 @@ If you have any questions or issues during the workshop, feel free to reach out 
 
 ---
 
-Let me know if you’d like any additional info or tweaks! This should give your attendees everything they need to get started with the hands-on portion of your workshop.
